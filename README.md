@@ -10,14 +10,18 @@ Welcome to my Python calculator!
 You can Add, Subtract, Multiply and Divide
 
 Type what would you like to do?
-\n1.Add (+)
-\n2.Subtract (-)
-\n3.Multiply (*)
-\n4.Divide (/)
+<br>
+1.Add (+)
+<br>
+2.Subtract (-)
+<br>
+3.Multiply (*)
+<br>
+4.Divide (/)
 
 Type the number (1, 2, 3, 4) of the mathematical operation you would like to use: 4
-\nEnter the first number: 4
-\nEnter the second number: 4
-\n4.0 / 4.0 = 1.0
+Enter the first number: 4
+Enter the second number: 4
+4.0 / 4.0 = 1.0
 
 Would you like do another calculation? (yes/no)
