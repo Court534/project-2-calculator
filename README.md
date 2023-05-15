@@ -4,8 +4,7 @@ To improve my coding skills in python I've set out to complete 50 mini projects 
 ## Command line calculator 
 This is a simple command line calculator. It will prompt you to select either Add, Subtrack, Multiply or Divide. It will then ask for for two numbers and depending on your selection it will carry out the selected operation.  
 
-## Terminal Example:
-"""
+## Terminal Example
 Welcome to my Python calculator!
 
 You can Add, Subtract, Multiply and Divide
