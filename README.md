@@ -20,8 +20,11 @@ Type what would you like to do?
 4.Divide (/)
 
 Type the number (1, 2, 3, 4) of the mathematical operation you would like to use: 4
+<br>
 Enter the first number: 4
+<br>
 Enter the second number: 4
+<br>
 4.0 / 4.0 = 1.0
 
 Would you like do another calculation? (yes/no)
